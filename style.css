@@ -1,0 +1,26 @@
+body {
+    background-color: rgb(46, 44, 36);
+    color: rgb(247, 246, 240);
+}
+
+.odinrecipe {
+    background-color: rgb(54, 52, 42);
+    text-align: center;
+}
+
+.home {
+    font-size: 22px;
+}
+
+h1,
+h2,
+ul,
+ol {
+    background-color: rgb(54, 52, 42);
+}
+
+a {
+    color:rgb(247, 246, 240);
+    font-size: 18px;
+}
+
